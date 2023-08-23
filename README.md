@@ -1,4 +1,4 @@
-# wk-1-challenge - Marketing Agency Accessibility Improvements
+# Marketing Agency Accessibility Improvements: wk-1-challenge
 
 ## Description
 The purpose of this project is to refactor an existing code base in order to meet a set of accessibility standards. Relevant client is Marketing Agency. 
