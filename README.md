@@ -15,10 +15,9 @@ The purpose of this project is to refactor an existing code base in order to mee
 - Commented CSS code where relevant
 - Ensured that links are functioning correctly
 
-## Usage
+## Webpage Preview
 ![Webpage Screenshot 1](assets/images/webpage-1.png)
 ![Webpage Screenshot 2](assets/images/webpage-2.png)
 
 ## Link to Deployed Application
-<!-- TODO: Replace link below with link to deployed application -->
-![Deployed Webpage](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+![Deployed Webpage](https://github.com/ajaycshan/wk-1-challenge)
