@@ -20,4 +20,4 @@ The purpose of this project is to refactor an existing code base in order to mee
 ![Webpage Screenshot 2](assets/images/webpage-2.png)
 
 ## Link to Deployed Application
-![Deployed Webpage](https://www.google.com/)
+[Deployed Webpage](https://www.google.com/)
